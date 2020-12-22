@@ -30,6 +30,6 @@ Here are some ideas to get you started:
 <p align="left">
     <img align="left" src="https://komarev.com/ghpvc/?username=Groops78&color=blue"/>
 </p>
-
+<!--🏆 Stat-->
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Groops78" />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Groops78&count_private=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Groops78&count_private=true&theme=dark"/>
