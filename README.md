@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 ### 📄 Github Stats 
 
 <p align="left">
-    <img align="left" src="https://komarev.com/ghpvc/?username=jfoot&color=blue"/>
+    <img align="left" src="https://komarev.com/ghpvc/?username=Groops78&color=blue"/>
 </p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfoot" />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=jfoot&count_private=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Groops78" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Groops78&count_private=true" />
