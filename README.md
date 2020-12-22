@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://www.linkedin.com/in/cyril-thomas-3521893a/">
     <img align="center" src="https://jonathanfoot.com/assets/images/linkdinblacklogo.png" width="25" />
-    Linkdin
+    Linkedin
   </a>
   
  <a href="mailto:78.cyril.thomas@gmail.com">
