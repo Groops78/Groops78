@@ -24,5 +24,12 @@ Here are some ideas to get you started:
       Email
   </a>
 </p>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Groops78" />
-![Groops78's Github Stats](https://github-readme-stats.vercel.app/api?username=Groops78&show_icons=true)
+
+### 📄 Github Stats 
+
+<p align="left">
+    <img align="left" src="https://komarev.com/ghpvc/?username=jfoot&color=blue"/>
+</p>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfoot" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=jfoot&count_private=true" />
