@@ -24,5 +24,5 @@ Here are some ideas to get you started:
       Email
   </a>
 </p>
-
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Groops78" />
 ![Groops78's Github Stats](https://github-readme-stats.vercel.app/api?username=Groops78&show_icons=true)
