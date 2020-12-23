@@ -24,6 +24,11 @@ Here are some ideas to get you started:
       Email
   </a>
 </p>
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cyril-thomas-3521893a/)](https://www.linkedin.com/in/cyril-thomas-3521893a/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/groops78)](https://www.instagram.com/groops78)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:78.cyril.thomas@gmail.com)](mailto:78.cyril.thomas@gmail.com)
+
+[![GitHub followers](https://img.shields.io/github/followers/Groops78?label=Follow&style=social)](https://github.com/Groops78?tab=followers)
 
 ### 📄 Github Stats 
 
