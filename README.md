@@ -12,22 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/cyril-thomas-3521893a/">
-    <img align="center" src="https://jonathanfoot.com/assets/images/linkdinblacklogo.png" width="25" />
-    Linkedin
-  </a>
-  
- <a href="mailto:78.cyril.thomas@gmail.com">
-    <img align="center" src="https://jonathanfoot.com/assets/images/emailiconblack.png" width="45" />
-      Email
-  </a>
-</p>
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cyril-thomas-3521893a/)](https://www.linkedin.com/in/cyril-thomas-3521893a/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/groops78)](https://www.instagram.com/groops78)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:78.cyril.thomas@gmail.com)](mailto:78.cyril.thomas@gmail.com)
-
 [![GitHub followers](https://img.shields.io/github/followers/Groops78?label=Follow&style=social)](https://github.com/Groops78?tab=followers)
 
 ### 📄 Github Stats 
