@@ -34,3 +34,5 @@ Here are some ideas to get you started:
 
 ### 📄 Technical Skills
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/fbe1194e90b752721c2584c41a42d96edc4efccc/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/fbe1194e90b752721c2584c41a42d96edc4efccc/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/fbe1194e90b752721c2584c41a42d96edc4efccc/topics/mysql/mysql.png"></code>
