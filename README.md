@@ -31,7 +31,7 @@ Here are some ideas to get you started:
     <img align="left" src="https://komarev.com/ghpvc/?username=Groops78&color=blue"/>
 </p>
 
-| <img src="https://github-readme-stats.vercel.app/api?username=Groops78&show_icons=true&count_private=true"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=Groops78"/> |
+| <img src="https://github-readme-stats.vercel.app/api?username=Groops78&show_icons=true&count_private=true"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=Groops78"/> | <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Groops78" />  | 
 |:------------:|:------------:|
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Groops78" />
+
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Groops78&count_private=true"/>
