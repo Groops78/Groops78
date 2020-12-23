@@ -33,5 +33,4 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Groops78"/>
 
 ### 📄 Technical Skills
-<img src="https://img.shields.io/badge/-Python%203-black?style=flat&logo=python&logoColor=white"> <br/>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/fbe1194e90b752721c2584c41a42d96edc4efccc/topics/python/python.png"></code>
