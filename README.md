@@ -17,12 +17,16 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:78.cyril.thomas@gmail.com)](mailto:78.cyril.thomas@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/Groops78?label=Follow&style=social)](https://github.com/Groops78?tab=followers)
 
+---
+
 ### 📄 Github Stats 
 
 <img align="left" src="https://komarev.com/ghpvc/?username=Groops78&color=blue"/> <br/>
 <img src="https://github-readme-stats.vercel.app/api?username=Groops78&show_icons=true&count_private=true"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Groops78"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Groops78"/>
+
+---
 
 ### 📄 Technical Skills
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/fbe1194e90b752721c2584c41a42d96edc4efccc/topics/python/python.png"></code>
